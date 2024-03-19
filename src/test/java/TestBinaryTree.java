@@ -1,6 +1,8 @@
 import org.example.Association;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
+
+import org.example.BinaryTree;
 import org.junit.jupiter.api.Test;
 public class TestBinaryTree {
 
